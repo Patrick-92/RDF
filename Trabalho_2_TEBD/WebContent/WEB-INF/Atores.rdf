@@ -1,0 +1,67 @@
+﻿<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  
+  <rdf:Description rdf:about="http://somewhere/TomCruise">
+    <vcard:BDAY>03/07/1962</vcard:BDAY>
+    <vcard:Family>Katie Holmes</vcard:Family>
+    <vcard:KEY>1</vcard:KEY>
+    <vcard:hasRole rdf:parseType="Resource">
+	  	<vcard:LABEL>Top Gun 2</vcard:LABEL>
+    	<vcard:LABEL>Missão Impossível 6</vcard:LABEL>
+	 </vcard:hasRole>
+    <vcard:FN>Tom Cruise</vcard:FN>
+    <vcard:Locality>Estados Unidos</vcard:Locality>
+    <vcard:CATEGORIES>3 Globos de Ouro</vcard:CATEGORIES>
+    <vcard:NAME>Sure Cruise, Connor Cruise, Isabella Jane Cruise</vcard:NAME>
+    <vcard:Country>Estados Unidos</vcard:Country>
+  </rdf:Description>
+
+	<rdf:Description rdf:about="http://somewhere/WilliamBradleyPitt">
+    <vcard:NAME> Shiloh Jolie-Pitt, Maddox Jolie-Pitt</vcard:NAME>
+    <vcard:CATEGORIES>Oscar de Melhor Filme</vcard:CATEGORIES>
+    <vcard:Family>Angelina Jolie</vcard:Family>
+    <vcard:FN>William Bradley Pitt</vcard:FN>
+    <vcard:KEY>1</vcard:KEY>
+    <vcard:hasRole rdf:parseType="Resource">
+	    <vcard:LABEL>Clube da Luta</vcard:LABEL>
+	    <vcard:LABEL>Sacanas Sem Lei</vcard:LABEL>
+	</vcard:hasRole>
+    <vcard:LABEL>Mr. eMrs. Smith</vcard:LABEL>
+    <vcard:LABEL>Troia</vcard:LABEL>
+    <vcard:Locality>Estados Unidos</vcard:Locality>
+    <vcard:BDAY>18/10/1963</vcard:BDAY>
+    <vcard:Country>Estados Unidos</vcard:Country>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://somewhere/AngelinaJolie">
+    <vcard:NAME>Shiloh Jolie-Pitt, Maddox Jolie-Pitt</vcard:NAME>
+    <vcard:Family>William Bradley Pitt</vcard:Family>
+    <vcard:BDAY>04/06/1975</vcard:BDAY>
+    <vcard:FN>Angelina Jolie</vcard:FN>
+    <vcard:KEY>1</vcard:KEY>
+    <vcard:hasRole rdf:parseType="Resource">
+	    <vcard:LABEL>Malévola</vcard:LABEL>
+	    <vcard:LABEL>Mr. eMrs. Smith</vcard:LABEL>
+	    <vcard:LABEL>Tomb Raider</vcard:LABEL>
+	</vcard:hasRole>
+    <vcard:Locality>Estados Unidos</vcard:Locality>
+    <vcard:CATEGORIES>Oscar</vcard:CATEGORIES>
+    <vcard:Country>Estados Unidos</vcard:Country>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://somewhere/LauraJeanReeseWitherspoon">
+    <vcard:CATEGORIES>Oscar de melhor atriz</vcard:CATEGORIES>
+    <vcard:NAME>Ava Elizabeth Phillippe, Tennessee James Toth, Deacon Reese Phillippe</vcard:NAME>
+    <vcard:BDAY>22/03/1976</vcard:BDAY>
+    <vcard:FN>Laura Jean Reese Witherspoon</vcard:FN>
+    <vcard:KEY>1</vcard:KEY>
+    <vcard:hasRole rdf:parseType="Resource">
+	    <vcard:LABEL>Legalmente Loira</vcard:LABEL>
+	    <vcard:LABEL>Guerra é Guerra</vcard:LABEL>
+	</vcard:hasRole>
+    <vcard:Locality>Estados Unidos</vcard:Locality>
+    <vcard:Family>Jim Toth</vcard:Family>
+    <vcard:Country>Estados Unidos</vcard:Country>
+  </rdf:Description>
+</rdf:RDF>
